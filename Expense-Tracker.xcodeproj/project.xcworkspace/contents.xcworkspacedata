@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/markkorenevskiy/College/winter2024/COMP3097-swiftdev/Expense-Tracker/Expense-Tracker.xcodeproj">
    </FileRef>
 </Workspace>

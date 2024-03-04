@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Expense-Tracker
+//  ExpTracker
 //
-//  Created by Mark Korenevskiy on 2024-02-26.
+//  Created by Яна Босенко on 02.03.2024.
 //
 
 import UIKit
